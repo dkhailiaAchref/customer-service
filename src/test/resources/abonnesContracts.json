@@ -1,0 +1,40 @@
+{
+  "id" : 1,
+  "contracts" : [ {
+    "id" : 1,
+    "contractNumber" : "100001",
+    "contractDescription" : "abonnement à toutes les chaine de sport canal +",
+    "subscriber" : {
+      "id" : 1,
+      "contracts" : null,
+      "name" : "sina",
+      "firstName" : "jhon",
+      "address" : "28 rue henri barbuse asnieres sur seine , 92600"
+    }
+  }, {
+    "id" : 2,
+    "contractNumber" : "100002",
+    "contractDescription" : "abonnement pour Les grands événements sport, cinéma, séries avec CANAL+",
+    "subscriber" : {
+      "id" : 1,
+      "contracts" : null,
+      "name" : "sina",
+      "firstName" : "jhon",
+      "address" : "28 rue henri barbuse asnieres sur seine , 92600"
+    }
+  }, {
+    "id" : 3,
+    "contractNumber" : "100003",
+    "contractDescription" : "abonnement pour une sélection exclusive de plus de 50 chaînes pour toute la famille",
+    "subscriber" : {
+      "id" : 1,
+      "contracts" : null,
+      "name" : "sina",
+      "firstName" : "jhon",
+      "address" : "28 rue henri barbuse asnieres sur seine , 92600"
+    }
+  } ],
+  "name" : "sina",
+  "firstName" : "jhon",
+  "address" : "28 rue henri barbuse asnieres sur seine , 92600"
+}
